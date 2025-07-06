@@ -16,7 +16,7 @@ This project is a simple and efficient **abstractive text summarization app** bu
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ShivanshT247/abstractive-summarizer.git
+git clone https://github.com/ShivanshT247/abstractive-text-summarizer.git
 cd abstractive-summarizer
 ```
 
