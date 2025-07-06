@@ -16,7 +16,7 @@ This project is a simple and efficient **abstractive text summarization app** bu
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ShivanshTripathi247/abstract-text-summarizer
+git clone https://github.com/ShivanshT247/abstractive-summarizer.git
 cd abstractive-summarizer
 ```
 
@@ -57,29 +57,12 @@ The tokenizer and model files are loaded from a Hugging Face Hub repository:
 ## 📁 Project Structure
 
 ```
-├── app.py                # Streamlit app interface
-├── model_loader.py       # Loads tokenizer and model
-├── summerizer.py         # Summary generation logic
-├── requirements.txt      # Project dependencies
-└── README.md             # This file
+├── app.py                # Streamlit app interface
+├── model_loader.py       # Loads tokenizer and model
+├── summerizer.py         # Summary generation logic
+├── requirements.txt      # Project dependencies
+└── README.md             # This file
 ```
-
-## 📸 Screenshots
-
-Here are some screenshots demonstrating the application's functionality:
-
-### Screenshot 1: Starting the from Command Line Interface
-[![User Details Dialog Placeholder](./src/2.png)](./src/2.png)
-
-### Screenshot 2: Input Text and Parameters
-[![User Details Dialog Placeholder](./src/3.png)](./src/3.png)
-
-### Screenshot 3: Generated Summary Output
-[![User Details Dialog Placeholder](./src/4.png)](./src/4.png)
-
-### Screenshot 4: Example with Longer Text
-[![User Details Dialog Placeholder](./src/5.png)](./src/5.png)
-
 
 ## 🛠️ Dependencies
 
