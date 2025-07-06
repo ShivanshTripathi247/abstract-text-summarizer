@@ -69,16 +69,16 @@ The tokenizer and model files are loaded from a Hugging Face Hub repository:
 Here are some screenshots demonstrating the application's functionality:
 
 ### Screenshot 0: Starting the Terminal
-![Starting the Terminal]([https://placehold.co/800x450/cccccc/333333?text=Screenshot+1%0AMain+Interface](https://ik.imagekit.io/itovlu1pu/4.png?updatedAt=1751800259430))
+![Starting the Terminal](https://ik.imagekit.io/itovlu1pu/4.png?updatedAt=1751800259430)
 
 ### Screenshot 1: Main Application Interface
-![Main App Interface]([https://placehold.co/800x450/cccccc/333333?text=Screenshot+1%0AMain+Interface](https://ik.imagekit.io/itovlu1pu/2.png?updatedAt=1751800259493))
+![Main App Interface](https://ik.imagekit.io/itovlu1pu/2.png?updatedAt=1751800259493)
 
 ### Screenshot 2: Input Text and Parameters
-![Input Text and Parameters]([https://placehold.co/800x450/cccccc/333333?text=Screenshot+2%0AInput+Text+and+Parameters](https://ik.imagekit.io/itovlu1pu/5.png?updatedAt=1751800259487))
+![Input Text and Parameters](https://ik.imagekit.io/itovlu1pu/5.png?updatedAt=1751800259487)
 
 ### Screenshot 3: Generated Summary Output
-![Generated Summary Output]([https://placehold.co/800x450/cccccc/333333?text=Screenshot+3%0AGenerated+Summary](https://ik.imagekit.io/itovlu1pu/3.png?updatedAt=1751800259477))
+![Generated Summary Output](https://ik.imagekit.io/itovlu1pu/3.png?updatedAt=1751800259477)
 
 
 ## 🛠️ Dependencies
