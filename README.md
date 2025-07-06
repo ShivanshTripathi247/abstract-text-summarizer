@@ -16,7 +16,7 @@ This project is a simple and efficient **abstractive text summarization app** bu
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/ShivanshT247/abstractive-summarizer.git](https://github.com/ShivanshT247/abstractive-summarizer.git)
+git clone https://github.com/ShivanshT247/abstractive-summarizer.git
 cd abstractive-summarizer
 ```
 
@@ -71,8 +71,7 @@ The tokenizer and model files are loaded from a Hugging Face Hub repository:
 
 B.Tech in Electrical & Electronics
 
-Interested in AI/ML, Web3, and full-stack development.
 
 ## 📄 License
 
-This project is open-sourced under the MIT License.
+This project is open-sourced under the MIT License through Hugging Face.
