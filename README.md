@@ -76,16 +76,14 @@ The tokenizer and model files are loaded from a Hugging Face Hub repository:
 Here are some screenshots demonstrating the application's functionality:
 
 ### Screenshot 1: Starting the from Command Line Interface
-[![User Details Dialog Placeholder](./src/2.png)](./src/2.png)
+[![User Details Dialog Placeholder](./src/4.png)](./src/2.png)
 
 ### Screenshot 2: Input Text and Parameters
-[![User Details Dialog Placeholder](./src/3.png)](./src/3.png)
+[![User Details Dialog Placeholder](./src/2.png)](./src/3.png)
 
 ### Screenshot 3: Generated Summary Output
-[![User Details Dialog Placeholder](./src/4.png)](./src/4.png)
+[![User Details Dialog Placeholder](./src/3.png)](./src/4.png)
 
-### Screenshot 4: Example with Longer Text
-[![User Details Dialog Placeholder](./src/5.png)](./src/5.png)
 
 
 ## 🛠️ Dependencies
