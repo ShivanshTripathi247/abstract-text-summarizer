@@ -75,7 +75,7 @@ The tokenizer and model files are loaded from a Hugging Face Hub repository:
 
 Here are some screenshots demonstrating the application's functionality:
 
-### Screenshot 1: Starting the from Command Line Interface
+### Screenshot 1: Starting the app from Command Line Interface
 [![User Details Dialog Placeholder](./src/4.png)](./src/2.png)
 
 ### Screenshot 2: Input Text and Parameters
